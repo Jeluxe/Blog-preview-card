@@ -54,7 +54,7 @@ main {
 .card {
   display: grid;
   gap: var(--spacing);
-  padding: var(--spacing);
+  padding: var(--content-spacing);
   width: 375px;
   border: 1px solid var(--clr-neutral-950);
   border-radius: 1.5rem;
